@@ -13,4 +13,4 @@ Initialiser un git
 
 ### Image
 
-![Eren yeager titan](img\green_eyes_eren_yeager_hd_attack_on_titan.jpg)
+![Eren yeager titan](img/green_eyes_eren_yeager_hd_attack_on_titan.jpg)
