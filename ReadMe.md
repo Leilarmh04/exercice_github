@@ -10,3 +10,7 @@ Initialiser un git
 
 `git init` => équivalent de mettre en commentaire 
 `<h1>Exemple de non interprétation de balise</h1>`
+
+### Image
+
+![Eren yeager titan](img/eren_yeager.png)
